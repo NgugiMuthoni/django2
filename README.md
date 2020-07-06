@@ -1,6 +1,6 @@
-# BerylGram
+# Gram
 #### By:
-Beryl Negesa Otieno
+BMuthoni Stephen
 
 <img src="./pic.png">
 
@@ -34,7 +34,7 @@ If user has an account, they click on `login` | User logs in | User is redirecte
 To get the project .......    
 ##### Cloning the repository:  
  ```bash 
-git clone https://github.com/Beryl01/BerylGram.git
+git clone https://github.com/NgugiMuthoni/django2.git
 ```
 ##### Navigate into the folder 
  ```bash 
@@ -78,9 +78,9 @@ Open the application on your browser `127.0.0.1:8000`.
 None known for now.
 
 ## Support and contact details
-* Email-berylnegesa@gmail.com
+* Email-ngugimuthoni43@gmail.com
 
 ## License
 [MIT License](License.md)
-Copyright (c) [2020] [Beryl Negesa Otieno]
+Copyright (c) [2020] [Muthoni Stephen]
 </a>
