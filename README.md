@@ -1,8 +1,6 @@
 # Gram
 #### By:
-BMuthoni Stephen
-
-<img src="./pic.png">
+Muthoni Stephen
 
 ### Description  
 The app is a photo sharing app which allows users to share, like, comment, follow and have followers in sharing daily activities.
