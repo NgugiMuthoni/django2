@@ -16,7 +16,7 @@ As a user of the web application you will be able to:
 5. Edit your profile
 
 ### Deployed link
-
+https://polar-springs-62002.herokuapp.com
 
 ### BDD
 | Behavior            | Input                         | Output                        | 
@@ -38,7 +38,7 @@ git clone https://github.com/NgugiMuthoni/django2.git
 ```
 ##### Navigate into the folder 
  ```bash 
-cd BerylGram
+cd Gram
 ```
 ##### Install and activate Virtual  
  ```bash 
