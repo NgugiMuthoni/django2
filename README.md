@@ -1,4 +1,4 @@
-# Gram
+# Mycloneinstagram
 #### By:
 Muthoni Stephen
 
@@ -36,7 +36,7 @@ git clone https://github.com/NgugiMuthoni/django2.git
 ```
 ##### Navigate into the folder 
  ```bash 
-cd Gram
+cd Django2
 ```
 ##### Install and activate Virtual  
  ```bash 
